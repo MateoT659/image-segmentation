@@ -1,4 +1,4 @@
-# Project 2
+# Image Segmentation Study
 
 ## Sklearn Implementation
 ```segmentationSKL.py``` contains code that uses sklearn to perform kmeans clustering on image data.
